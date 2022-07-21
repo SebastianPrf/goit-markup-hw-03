@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto', 'Times New Roman', 'Helvetica Neue', sans-serif; 
+    font-size: 14px;
+    color: #212121;
+    line-height: 1.7;
+}
+h1 {
+    font-size: 44px;
+    text-transform: uppercase;
+    line-height: 1.4;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+.team,
+.portf {
+    font-size: 16px;
+}
+h3 {
+    font-size: 16px;
+    font-weight: 500;
+}
+h4 {
+    text-transform: uppercase;
+}
+h5 {
+    font-size: 18px;
+    font-weight: 700;
+}
+.button {
+    font-size: 16px;
+}
+.button:hover {
+    color: #ffffff;
+    background-color: #2196F3;
+    cursor: pointer;
+}
+.main {
+    color: #ffffff;
+    background-color: #2196F3;
+    font-weight: 700;
+}
+a[href="index.html"] {
+    font-family: 'Raleway';
+    font-size: 26px;
+    font-weight: 700;
+}
+span,
+p,
+a[href="mailto:info@devstudio.com"],
+a[href="tel:+48111111111"] {
+    color: #757575;
+}
+a:hover,
+a:focus {
+    color: #2196F3;
+}
